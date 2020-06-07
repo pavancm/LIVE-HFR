@@ -17,7 +17,7 @@ Alternatively you can manually download all the zipped files from [HERE](https:/
 After downloading and unzipping make sure to have a total of 480 videos.
 
 ## Subjective Scores
-Files containing subjective Mean Opinion Scores (MOS) are provided in [Subjective Scores] (LIVE-HFR/tree/master/subjective-scores) directory.
+Files containing subjective Mean Opinion Scores (MOS) are provided in [Subjective Scores] (https://github.com/pavancm/LIVE-HFR/tree/master/subjective_scores) directory.
 
 ### Contact
 Please contact Pavan (pavan.madhusudana@gmail.com) if you have any questions, suggestions or corrections to the above scripts.
