@@ -12,3 +12,8 @@ Windows users can run the following commands
 bash database_download.bat
 bash data_unzip.bat
 ```
+Alternatively you can manually download all the zipped files from [here][https://utexas.box.com/s/0musrqhgpee75m1d3c23gb3usmhv67tr]
+
+After downloading and unzipping make sure to have a total of 480 videos.
+
+## Subjective Scores
