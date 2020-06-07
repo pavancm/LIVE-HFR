@@ -2,7 +2,7 @@
 curl -L https://utexas.box.com/shared/static/lvx1avpo0s75adc4wg8av0tzoojragi0 --output bobblehead.zip
 
 ::Download books directory
-curl -L https://utexas.box.com/shared/static/emidxvh4etfx9q3v27tciywolk1qmkto ---output books.zip
+curl -L https://utexas.box.com/shared/static/emidxvh4etfx9q3v27tciywolk1qmkto --output books.zip
 
 ::Download bouncyball directory
 curl -L https://utexas.box.com/shared/static/wy8cvpovnlu4dtetj0wbk4nso9575rg0 --output bouncyball.zip
