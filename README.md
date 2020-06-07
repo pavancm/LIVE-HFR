@@ -21,6 +21,7 @@ All the videos in the database are compressed using VP9 codec with varying CRF l
 Each filename has the following pattern - "xx_crf_%_&fps.webm".
 
 "xx" is a pattern denoting source/reference video. There are 16 reference videos in the LIVE-HFR Database.
+'1Runner', '3Runners', 'Flips', 'Hurdles' and 'LongJump' sequences are 4K resolution compressed in YUV420p10le format. 'bobblehead', 'books', 'bouncyball', 'catchtrack', 'cyclist', 'hamster', 'lamppost', 'leaves', 'library', 'pour' and 'watersplashing' videos are 1080p resolution coded in YUV420p format. 
 
 "%" is a number denoting CRF level used for compressing the source sequence. CRF = 0 denotes lossless compression.
 
