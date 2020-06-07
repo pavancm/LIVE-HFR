@@ -9,8 +9,8 @@ bash data_unzip.sh
 ```
 Windows users can run the following commands
 ```
-bash database_download.bat
-bash data_unzip.bat
+database_download.bat
+data_unzip.bat
 ```
 Alternatively you can manually download all the zipped files from [HERE](https://utexas.box.com/s/0musrqhgpee75m1d3c23gb3usmhv67tr)
 
