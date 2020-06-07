@@ -16,6 +16,18 @@ Alternatively you can manually download all the zipped files from [HERE](https:/
 
 After downloading and unzipping make sure to have a total of 480 videos.
 
+All the videos in the database are compressed using VP9 codec with varying CRF level.
+
+## Filenaming Convention
+Each filename has the following pattern - "xx_crf_%_&fps.webm".
+
+"xx" is a pattern denoting source/reference video. There are 16 reference videos in the LIVE-HFR Database.
+
+"%" is a number denoting CRF level used for compressing the source sequence.
+
+"&" denotes the fps value of the video. For each source sequence there are 6 different fps values - 24, 30, 60, 82, 98 and 120 fps. 
+
+Every source sequence across fps values contains CRF=0 video, which is lossless compression.
 ## Subjective Scores
 Files containing subjective Mean Opinion Scores (MOS) are provided in [Subjective Scores](https://github.com/pavancm/LIVE-HFR/tree/master/subjective_scores) directory.
 
