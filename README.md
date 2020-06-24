@@ -1,4 +1,4 @@
-# LIVE-HFR Database
+# LIVE-YT-HFR Database
 We provide two ways of downloading LIVE-HFR database: using command line and manual download. We recommend using command line as it is easier and can download and unzip the entire database.
 
 ## Usage
