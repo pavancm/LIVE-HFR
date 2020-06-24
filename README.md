@@ -1,5 +1,5 @@
 # LIVE-YT-HFR Database
-We provide two ways of downloading LIVE-HFR database: using command line and manual download. We recommend using command line as it is easier and can download and unzip the entire database.
+We provide two ways of downloading LIVE-YT-HFR database: using command line and manual download. We recommend using command line as it is easier and can download and unzip the entire database.
 
 ## Usage
 Linux and Mac users run the following commands in the directory where the database is to be downloaded. Use the password mailed to you when prompted while unzipping the downloaded files. Please ensure there is atleast ~250GB space available before downloading.
@@ -20,7 +20,7 @@ All the videos in the database are compressed using VP9 codec with varying CRF l
 ## Filenaming Convention
 Each filename has the following pattern - "xx_crf_%_&fps.webm".
 
-"xx" is a pattern denoting source/reference video. There are 16 reference videos in the LIVE-HFR Database.
+"xx" is a pattern denoting source/reference video. There are 16 reference videos in the LIVE-YT-HFR Database.
 '1Runner', '3Runners', 'Flips', 'Hurdles' and 'LongJump' sequences are 4K resolution compressed in YUV420p10le format. 'bobblehead', 'books', 'bouncyball', 'catchtrack', 'cyclist', 'hamster', 'lamppost', 'leaves', 'library', 'pour' and 'watersplashing' videos are 1080p resolution coded in YUV420p format. 
 
 "%" is a number denoting CRF level used for compressing the source sequence. CRF = 0 denotes lossless compression.
