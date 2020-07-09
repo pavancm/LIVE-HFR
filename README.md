@@ -12,7 +12,7 @@ Windows users can run the following commands
 database_download.bat
 data_unzip.bat
 ```
-Alternatively you can manually download all the zipped files from [HERE](https://utexas.box.com/s/0musrqhgpee75m1d3c23gb3usmhv67tr)
+Alternatively all the zipped files can be manually download from [HERE](https://utexas.box.com/s/0musrqhgpee75m1d3c23gb3usmhv67tr)
 
 After downloading and unzipping make sure to have a total of 480 videos.
 All the videos in the database are compressed using VP9 codec with varying CRF levels.
