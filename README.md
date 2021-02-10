@@ -28,7 +28,7 @@ Each filename has the following pattern - "xx_crf_%_&fps.webm".
 "&" denotes the fps value of the video. For each source sequence there are 6 different fps values - 24, 30, 60, 82, 98 and 120. 
 
 ## Subjective Scores
-Files containing subjective Mean Opinion Scores (MOS) are provided in [Subjective Scores](https://github.com/pavancm/LIVE-HFR/tree/master/subjective_scores) directory.
+Files containing subjective Mean Opinion Scores (MOS) and Difference-MOS (DMOS) are provided in [Subjective Scores](https://github.com/pavancm/LIVE-HFR/tree/master/subjective_scores) directory.
 
 ### Contact
 Please contact Pavan (pavan.madhusudana@gmail.com) if you have any questions, suggestions or corrections to the above scripts.
