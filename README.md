@@ -32,3 +32,14 @@ Files containing subjective Mean Opinion Scores (MOS) and Difference-MOS (DMOS) 
 
 ### Contact
 Please contact Pavan (pavan.madhusudana@gmail.com) if you have any questions, suggestions or corrections to the above scripts.
+
+# Citation
+```
+@article{madhsudana2021subjective,
+  author={Madhusudana, Pavan C. and Yu, Xiangxu and Birkbeck, Neil and Wang, Yilin and Adsumilli, Balu and Bovik, Alan C.},
+  journal={IEEE Access}, 
+  title={Subjective and Objective Quality Assessment of High Frame Rate Videos}, 
+  year={2021},
+  volume={9},
+  pages={108069-108082}}
+  ```
